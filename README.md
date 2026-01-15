@@ -35,4 +35,18 @@ The project focuses on modular backend design, API-based data aggregation, and s
 ---
 
 ## Project Structure
+Localized_News_Aggregator_NewsBuzz/
+│
+├── frontend/ # UI files (HTML, CSS, JS)
+├── backend/ # Server-side logic and API handling
+├── config/ # Configuration files
+├── utils/ # Helper functions and modules
+└── README.md # Project documentation
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Shimonasinha/Localized_News_Aggregator_NewsBuzz.git
+   cd Localized_News_Aggregator_NewsBuzz
 
