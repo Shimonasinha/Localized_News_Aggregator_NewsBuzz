@@ -34,5 +34,5 @@ The project focuses on modular backend design, API-based data aggregation, and s
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
